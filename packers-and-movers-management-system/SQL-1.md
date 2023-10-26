@@ -24,3 +24,4 @@ Cookie: PHPSESSID=c01he3spaa8msq4609rs8bml47
 Connection: close
 ```
 
+![image](https://github.com/geilihan/bug_reports/assets/149031238/bbc304f0-ba0f-4da3-b257-3d07bf1850e0)
